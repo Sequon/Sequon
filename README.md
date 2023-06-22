@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sequon
+- 👋 Hi, I’m @Anna
 - 👀 I’m interested in R, HTML, CSS and JS
 - 🌱 I’m currently learning "Full Stack Web Development" and Machine Learning
 - 💞️ I’m looking to collaborate on projects related to science (biomedicine)
